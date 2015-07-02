@@ -1,1 +1,1 @@
-# gugli
+# gugli megvaltoztattam, lol

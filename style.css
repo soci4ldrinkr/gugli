@@ -1,0 +1,119 @@
+body {
+		font-family: Arial;
+}
+div {
+	position: absolute;
+	height: 200px;
+	width: 400px;
+	top: 35%;
+	left: 50%;
+	margin: -100px 0 0 -200px;
+	text-align: center;
+}
+#google {
+	display: block;
+	margin: auto;
+}
+#orszag {
+	position: relative;
+	margin: -50px 0 0 85px;
+	font-size: 20px;
+	font-weight: bolder;
+	font-family: Arial;
+	color: gray;
+	height: 25px;
+	width: 150px;
+	top: auto;
+	left: 50%;
+}
+div div  {
+		margin: 0px;
+		margin-left:-300px;
+		text-align: middle;
+		position: relative;
+		width: 600px;
+		top: auto;
+		left: 50%;
+}
+form p {
+		font-weight: bold;
+		font-size: 10px;
+		color: #909090;
+}
+.submit{
+		font-weight: bold;
+		font-size: 11px;
+		color: #505050;
+		height: 25px;
+		margin: 0px 9px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;		
+}
+ul {
+	list-style: outside none none;
+	margin: 0;
+	height: 100%;
+
+}
+li {
+	display: inline;
+	position: relative;
+	margin: 0px 6px;
+	width: 100px;
+	height: 40px;
+	top: 5%;
+}
+#navbar {
+	float: right;
+	position: relative;
+	text-align: right;
+	height: 50px;
+	width: 100%;
+	top: auto;
+	left: auto;
+	margin: auto;
+	font-size: 0.9em;
+}
+li img {
+		vertical-align: middle;
+}
+a {
+	text-decoration: none;
+	color: #010101;
+}
+a:hover {
+		text-decoration: underline;
+}
+li#dani {
+		color: #909090;
+		font-size: 1em;
+}
+#footer {
+	position: fixed;
+	height: 50px;
+	width: 100%;
+	top: auto;
+	left: 0px;
+	bottom: 0px;
+	margin: 0px;
+	font-size: 0.9em;
+	clear: both;
+	background-color: #F0F0F0;
+	line-height: 20px;
+
+}
+#footer li {
+		position: relative;
+		top: 15px;
+		padding: 10px;
+}
+.left {
+		float:left;
+}
+.right {
+		float:right;
+}
+#footer li a {
+					color: #707070;
+
+}
